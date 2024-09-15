@@ -1,1 +1,1 @@
-[![Tássio Gonçalves GitHub stats](https://github-readme-stats.vercel.app/api?username=tassiogoncalves)](https://github.com/tassiogoncalves/github-readme-stats)
+[![Tássio Gonçalves GitHub stats](https://github-readme-stats.vercel.app/api?username=tassiogoncalves&locale=pt-br)](https://github.com/tassiogoncalves/github-readme-stats)
